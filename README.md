@@ -14,7 +14,7 @@ license: cc
 [![Sync to Hugging Face hub](https://github.com/dbsiegel/hugging-face-mlops-demo/actions/workflows/main.yml/badge.svg)](https://github.com/dbsiegel/hugging-face-mlops-demo/actions/workflows/main.yml)
 
 
-[Try Demo Text Summarization Here](https://huggingface.co/spaces/dsiegel/demo-mlops2)
+[Try Demo Text Summarization Here](https://huggingface.co/spaces/dsiegel/demo-mlops)
 
 
 ![mlops-hugging-face](https://user-images.githubusercontent.com/58792/170845235-7f00d61c-ea36-4d28-82d0-3a9b8c0f1769.png)
